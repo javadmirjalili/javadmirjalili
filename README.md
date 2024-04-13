@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @javadmirjalili
+- 👋 Hi, I’m javadmirjalili
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
 
